@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bmi</string>
+    <string name="heightText_name">身高（cm）</string>
+    <string name="weightText_name">体重（kg）</string>
+    <string name="showButton_name">点击查询</string>
+    <string name="resultText_name">查询结果</string>
+    <string name="chaoshou_name">按照生物学来说这种生物是不能生存的</string>
+    <string name="thin_name">您太瘦啦！注意身体健康哦！</string>
+    <string name="normal_name">是非常标准的身材哦！</string>
+    <string name="fat_name">您现在偏胖需要注意饮食哦！</string>
+    <string name="bfat_name">太胖啦！快去运动吧！</string>
+    <string name="toofat_name">八戒你知道你在说什么吗？</string>
+</resources>
